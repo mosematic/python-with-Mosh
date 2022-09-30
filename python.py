@@ -17,3 +17,13 @@ print(price)
 full_name = 'John Smith'
 age = 20
 is_new = True
+
+# strings can have double or single quotes "" or ''
+# example
+course = 'python for "beginners"'
+# multi-line string takes triple quotes '''....'''
+'''
+Hey moses,
+how is work and studying getting along??
+Hope everything is fine
+'''
